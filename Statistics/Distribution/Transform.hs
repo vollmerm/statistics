@@ -1,5 +1,6 @@
 {-# LANGUAGE DeriveDataTypeable, DeriveGeneric, FlexibleContexts,
     FlexibleInstances, UndecidableInstances #-}
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module    : Statistics.Distribution.Transform
 -- Copyright : (c) 2013 John McDonnell;

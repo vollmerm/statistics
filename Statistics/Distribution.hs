@@ -1,4 +1,5 @@
 {-# LANGUAGE BangPatterns, ScopedTypeVariables #-}
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module    : Statistics.Distribution
 -- Copyright : (c) 2009 Bryan O'Sullivan

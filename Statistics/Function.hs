@@ -2,7 +2,7 @@
 #if __GLASGOW_HASKELL__ >= 704
 {-# OPTIONS_GHC -fsimpl-tick-factor=200 #-}
 #endif
-
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module    : Statistics.Function
 -- Copyright : (c) 2009, 2010, 2011 Bryan O'Sullivan

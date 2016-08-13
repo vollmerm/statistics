@@ -1,4 +1,5 @@
 {-# LANGUAGE FlexibleContexts #-}
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module    : Statistics.Quantile
 -- Copyright : (c) 2009 Bryan O'Sullivan

@@ -1,3 +1,4 @@
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module    : Statistics.Internal
 -- Copyright : (c) 2009 Bryan O'Sullivan

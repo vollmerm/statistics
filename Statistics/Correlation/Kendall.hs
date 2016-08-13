@@ -1,4 +1,5 @@
 {-# LANGUAGE BangPatterns, CPP, FlexibleContexts #-}
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module      : Statistics.Correlation.Kendall
 --

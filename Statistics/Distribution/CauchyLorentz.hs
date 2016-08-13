@@ -1,5 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE DeriveDataTypeable, DeriveGeneric #-}
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module    : Statistics.Distribution.CauchyLorentz
 -- Copyright : (c) 2011 Aleksey Khudyakov

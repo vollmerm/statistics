@@ -1,5 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE DeriveDataTypeable, DeriveGeneric #-}
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module    : Statistics.Distribution.Uniform
 -- Copyright : (c) 2011 Aleksey Khudyakov

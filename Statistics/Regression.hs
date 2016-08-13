@@ -1,3 +1,4 @@
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module    : Statistics.Regression
 -- Copyright : 2014 Bryan O'Sullivan

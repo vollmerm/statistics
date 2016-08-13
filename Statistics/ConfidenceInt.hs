@@ -1,4 +1,5 @@
 {-# LANGUAGE ViewPatterns #-}
+{-# LANGUAGE Safe #-}
 -- | Calculation of confidence intervals
 module Statistics.ConfidenceInt (
     poissonCI

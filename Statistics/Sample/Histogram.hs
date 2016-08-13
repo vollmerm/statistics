@@ -1,5 +1,5 @@
 {-# LANGUAGE FlexibleContexts #-}
-
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module    : Statistics.Sample.Histogram
 -- Copyright : (c) 2011 Bryan O'Sullivan

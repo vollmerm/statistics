@@ -1,4 +1,5 @@
 {-# LANGUAGE PatternGuards #-}
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module    : Statistics.Matrix
 -- Copyright : 2011 Aleksey Khudyakov, 2014 Bryan O'Sullivan

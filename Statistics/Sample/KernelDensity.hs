@@ -1,4 +1,5 @@
 {-# LANGUAGE BangPatterns, FlexibleContexts, UnboxedTuples #-}
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module    : Statistics.Sample.KernelDensity
 -- Copyright : (c) 2011 Bryan O'Sullivan

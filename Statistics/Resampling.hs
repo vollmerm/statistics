@@ -2,7 +2,7 @@
 {-# LANGUAGE DeriveTraversable #-}
 {-# LANGUAGE DeriveFunctor #-}
 {-# LANGUAGE BangPatterns, DeriveDataTypeable, DeriveGeneric, FlexibleContexts #-}
-
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module    : Statistics.Resampling
 -- Copyright : (c) 2009, 2010 Bryan O'Sullivan

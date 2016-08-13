@@ -1,5 +1,6 @@
 {-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE BangPatterns #-}
+{-# LANGUAGE Trustworthy #-}
 -- |
 -- Module      : Statistics.Correlation.Pearson
 --
